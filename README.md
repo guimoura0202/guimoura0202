@@ -1,4 +1,7 @@
 ### Olá, eu sou Guilherme Moura 👋
+- 📚 Granduando de Engenharia de Software
+- 💻 Atualmente estou aprendendo Java
+- 💭 Buscando sempre aprender mais sobre tecnologia
 <div align="center">
   <a href="https://github.com/guimoura0202">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=guimoura0202&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
