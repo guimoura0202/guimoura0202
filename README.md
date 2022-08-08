@@ -1,5 +1,5 @@
 ### Olá, eu sou Guilherme Moura 👋
-- 📚 Granduando de Engenharia de Software
+- 📚 Granduando de Engenharia de Software na Universidade Federal do Pampa
 - 💻 Atualmente estou aprendendo Java
 - 💭 Buscando sempre aprender mais sobre tecnologia
 <div align="center">
