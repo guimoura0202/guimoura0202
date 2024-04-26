@@ -1,6 +1,6 @@
 ### Olá, eu sou Guilherme Moura 👋
 - 📚 Granduando de Engenharia de Software na Universidade Federal do Pampa
-- 💻 Atualmente estou aprendendo Java. Tenho conhecimento nos conceitos básicos da linguagem, programação orientada a objetos, excessões, interface gráficas, testes unitários e testes automatizados com Selenium. 
+- 💻 Atualmente estou aprendendo PHP, Java e Laravel. Tenho conhecimento nos conceitos básicos da linguagem, programação orientada a objetos, excessões, interface gráficas, testes unitários, testes automatizados com Selenium e diferentes paradigmas de programação, como linguagens funcionais, lógicos, orientados a objetos e procedimental.. 
 - 💭 Buscando sempre aprender mais sobre tecnologia
 <div align="center">
   <a href="https://github.com/guimoura0202">
