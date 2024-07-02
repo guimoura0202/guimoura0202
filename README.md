@@ -2,10 +2,10 @@
 - 📚 Granduando de Engenharia de Software na Universidade Federal do Pampa
 - 💻 Tenho conhecimento nos conceitos básicos da linguagem, programação orientada a objetos, excessões, interface gráficas, testes unitários, testes automatizados com Selenium e diferentes paradigmas de programação, como linguagens funcionais, lógicos, orientados a objetos e procedimental.. 
 - 💭 Buscando sempre aprender mais sobre tecnologia
-<div> 
-  <a href = "mailto:guilherme.av.moura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-moura-4984801b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+- <div align="center">
+  <a href="https://github.com/guimoura0202">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimoura0202&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
 
 <p align="left">
   <!-- Java -->
