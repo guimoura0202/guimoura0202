@@ -3,10 +3,6 @@
 - 💻 Tenho conhecimento nos conceitos básicos da linguagem, programação orientada a objetos, excessões, interface gráficas, testes unitários, testes automatizados com Selenium e diferentes paradigmas de programação, como linguagens funcionais, lógicos, orientados a objetos e procedimental..
 - 🚀 Atualmente trabalhando com C#, .Net, MongoDB e JavaScript
 - 💭 Sempre buscando aprender mais sobre tecnologia e aprimorar minhas habilidades.
-<div align="center">
-<a href="https://github.com/guimoura0202">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimoura0202&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <p align="left">
   <!-- Java -->
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
