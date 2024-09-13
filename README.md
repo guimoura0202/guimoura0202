@@ -1,7 +1,7 @@
 ### Olá, eu sou Guilherme Moura 👋
 - 📚 Granduando de Engenharia de Software na Universidade Federal do Pampa
 - 💻 Tenho conhecimento nos conceitos básicos da linguagem, programação orientada a objetos, excessões, interface gráficas, testes unitários, testes automatizados com Selenium e diferentes paradigmas de programação, como linguagens funcionais, lógicos, orientados a objetos e procedimental..
-- 🚀 Atualmente trabalhando com C#, .Net, MongoDB e JavaScript
+- 🚀 Atualmente trabalhando com Python, C#, .Net, MongoDB e JavaScript, focado em Machine Learning, automatização e resolução de problemas no maior sistema ERP White Label do Brasil.
 - 💭 Sempre buscando aprender mais sobre tecnologia e aprimorar minhas habilidades.
 <p align="left">
   <!-- Python -->
