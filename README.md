@@ -4,8 +4,6 @@
 - 🚀 Atualmente trabalhando com C#, .Net, MongoDB e JavaScript
 - 💭 Sempre buscando aprender mais sobre tecnologia e aprimorar minhas habilidades.
 <p align="left">
-  <!-- Java -->
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <!-- Python -->
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <!-- HTML -->
@@ -20,4 +18,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <!-- JavaScript -->
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <!-- Java -->
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
