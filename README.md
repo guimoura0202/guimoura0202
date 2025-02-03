@@ -21,3 +21,6 @@
   <!-- Java -->
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
+
+![Guimoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimoura0202&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimoura0202&hide=css,html,scss)
